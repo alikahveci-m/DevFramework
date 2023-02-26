@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: Metadata file 'C:\Users\laz-o\source\repos\DevFramework\DevFramework.Northwind.WebUI\bin\DevFramework.Northwind.WebUI.dll' could not be found
+dotnet_diagnostic.CS0006.severity = error
